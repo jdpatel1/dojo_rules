@@ -7,3 +7,4 @@ Kill List
 *    Repeated code blocks
 *    Bad variable names
 * grievancedd
+* fgfgf jfkgj kf 
